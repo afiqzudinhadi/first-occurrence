@@ -1,0 +1,21 @@
+{
+	"name": "cliselect",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.ts",
+	"scripts": {
+		"index": "ts-node src/index.ts",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "afiqzudinhadi",
+	"license": "ISC",
+	"dependencies": {
+		"@inquirer/prompts": "^5.0.6"
+	},
+	"devDependencies": {
+		"@types/node": "^20.14.8",
+		"ts-node": "^10.9.2",
+		"typescript": "^5.5.2"
+	},
+	"type": "module"
+}
