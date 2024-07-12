@@ -1,4 +1,4 @@
-# Find The First Occurrence Of An Element In An Array
+# Find First Occurrence Of An Number In An Array
 
 ## Description
 This repository contains code and documentation related to finding the first occurrence of a specific element in a given array or string which will be sorted.
