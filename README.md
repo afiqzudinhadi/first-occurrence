@@ -6,8 +6,6 @@ This utility takes a user input of array items and target input. The code finds 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 To use the code in this repository, you need to have [Node.js](https://nodejs.org/en) installed on your machine. Clone the repository to your local system using the following command:
