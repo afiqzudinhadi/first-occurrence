@@ -1,7 +1,7 @@
-# Find First Occurrence Of An Number In An Array
+# Find First Occurrence of a Number in an Array
 
 ## Description
-This repository contains code and documentation related to finding the first occurrence of a specific element in a given array or string which will be sorted.
+This repository contains code and documentation related to finding the first occurrence of a specific number in a given array or string which will be sorted.
 
 ## Table of Contents
 - [Installation](#installation)
